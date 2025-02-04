@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-04T18:47:41 GMT-04:00" name="Suite" finished-at="2025-02-04T18:47:44 GMT-04:00" duration-ms="2380">
+  <suite started-at="2025-02-04T19:13:44 GMT-04:00" name="Suite" finished-at="2025-02-04T19:13:48 GMT-04:00" duration-ms="3984">
     <groups>
     </groups>
-    <test started-at="2025-02-04T18:47:41 GMT-04:00" name="Test" finished-at="2025-02-04T18:47:44 GMT-04:00" duration-ms="2380">
+    <test started-at="2025-02-04T19:13:44 GMT-04:00" name="Test" finished-at="2025-02-04T19:13:48 GMT-04:00" duration-ms="3984">
       <class name="ApiPost.APIAutomation.LoginAPITest">
-        <test-method signature="testInvalidLoginInvalidEmail()[pri:0, instance:ApiPost.APIAutomation.LoginAPITest@1622f1b]" started-at="2025-02-04T18:47:41 GMT-04:00" name="testInvalidLoginInvalidEmail" description="Negative Test Case: Invalid Login - Invalid Email" finished-at="2025-02-04T18:47:43 GMT-04:00" duration-ms="1840" status="PASS">
+        <test-method signature="testInvalidLoginInvalidEmail()[pri:0, instance:ApiPost.APIAutomation.LoginAPITest@1622f1b]" started-at="2025-02-04T19:13:44 GMT-04:00" name="testInvalidLoginInvalidEmail" description="Negative Test Case: Invalid Login - Invalid Email" finished-at="2025-02-04T19:13:47 GMT-04:00" duration-ms="3228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testInvalidLoginInvalidEmail -->
-        <test-method signature="testInvalidLoginMissingPassword()[pri:0, instance:ApiPost.APIAutomation.LoginAPITest@1622f1b]" started-at="2025-02-04T18:47:43 GMT-04:00" name="testInvalidLoginMissingPassword" description="Negative Test Case: Invalid Login - Missing Password" finished-at="2025-02-04T18:47:43 GMT-04:00" duration-ms="255" status="PASS">
+        <test-method signature="testInvalidLoginMissingPassword()[pri:0, instance:ApiPost.APIAutomation.LoginAPITest@1622f1b]" started-at="2025-02-04T19:13:47 GMT-04:00" name="testInvalidLoginMissingPassword" description="Negative Test Case: Invalid Login - Missing Password" finished-at="2025-02-04T19:13:48 GMT-04:00" duration-ms="386" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testInvalidLoginMissingPassword -->
-        <test-method signature="testValidLogin()[pri:0, instance:ApiPost.APIAutomation.LoginAPITest@1622f1b]" started-at="2025-02-04T18:47:43 GMT-04:00" name="testValidLogin" description="Positive Test Case: Valid Login" finished-at="2025-02-04T18:47:44 GMT-04:00" duration-ms="260" status="PASS">
+        <test-method signature="testValidLogin()[pri:0, instance:ApiPost.APIAutomation.LoginAPITest@1622f1b]" started-at="2025-02-04T19:13:48 GMT-04:00" name="testValidLogin" description="Positive Test Case: Valid Login" finished-at="2025-02-04T19:13:48 GMT-04:00" duration-ms="303" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testValidLogin -->
